@@ -289,5 +289,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
 
 ---
-
+```
+yaha pe code aaega
+```
 > ⭐ If you found this project helpful or interesting, consider giving it a star on GitHub!
